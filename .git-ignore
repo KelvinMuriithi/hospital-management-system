@@ -1,0 +1,4 @@
+hospital.db
+venv/
+__pycache__/
+.git-ignore
